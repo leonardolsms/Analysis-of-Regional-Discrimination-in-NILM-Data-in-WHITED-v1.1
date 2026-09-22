@@ -16,3 +16,6 @@ discriminative information, but do not support interpreting it as an independent
 
 
 Keywords: NILM; WHITED; machine learning; Random Forest; PCA; Silhouette coefficient; domain heterogeneity.
+
+<img width="1071" height="525" alt="Methodology" src="https://github.com/user-attachments/assets/9e223f09-08aa-4b92-bf21-dc397d2b8e27" />
+
