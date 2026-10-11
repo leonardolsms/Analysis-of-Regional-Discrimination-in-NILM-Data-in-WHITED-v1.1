@@ -1,4 +1,4 @@
-# Analysis of Regional Discrimination in NILM Data: Impact of Acquisition Kit and Load Composition in WHITED v1.1
+# Analysis of Site-Level Discrimination in High-Frequency NILM Data: Acquisition Kit and Load Composition in WHITED v1.1
 A reproducible audit of the structure of the WHITED v1.1 dataset used in the study; a joint analysis based
 on Principal Component Analysis (PCA), the Silhouette coefficient, and nonparametric statistical tests; a
 supervised evaluation using appliance-grouped cross-validation; an explicit analysis of the relationship between region and acquisition kit; and a discussion of the distinction between predictive discrimination and the existence of an independent geographical electrical signature 
